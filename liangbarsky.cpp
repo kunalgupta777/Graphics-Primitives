@@ -1,5 +1,4 @@
 // Liang Barsky  Line Clipping Algorithm
-//  - Kunal Gupta 735/IT/15
 #include<iostream>
 #include<graphics.h>
 #include<math.h>
